@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from "react";
-import { BsChatSquareDots } from "react-icons/bs";
+import React, { useState } from "react";
 import {
   FaBars,
   FaFacebookF,
@@ -28,7 +27,7 @@ const Navbar = () => {
           <a href="#negocios">Destinos</a>
         </li>
         <li>
-          <a href="#contatos">Contatos</a>
+          <a href="#contato">Contato</a>
         </li>
       </ul>
 
